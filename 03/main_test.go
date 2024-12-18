@@ -1,8 +1,9 @@
 package main
 
 import (
-	util "aoc2024/util"
 	"testing"
+
+	util "github.com/MHarland/adventofcode/util"
 )
 
 func TestCorruptedMemoryInstructionsRead(t *testing.T) {
